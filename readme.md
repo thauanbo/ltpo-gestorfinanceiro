@@ -7,11 +7,11 @@ Este projeto foi realizado de forma educacional, com o princípio fundamental na
 ## Funcionalidades
 
 - Registro de transações financeiras (receitas e despesas);
-- 
+  
 - Geração de relatório organizado de todas as transações;
-- 
+  
 - Cálculo automático do saldo financeiro;
-- 
+  
 - Sistema modular com separação de responsabilidades;
 
 ## Estrutura do Projeto
